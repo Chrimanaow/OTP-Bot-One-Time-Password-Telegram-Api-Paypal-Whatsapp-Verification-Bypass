@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{5A927A40-371F-4ACE-9E5D-1F60F469B0DA}") = "OTP Bot", "OTP-Bot.csproj", "{B768C12E-8827-4022-B023-EBAC13800F5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B768C12E-8827-4022-B023-EBAC13800F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B768C12E-8827-4022-B023-EBAC13800F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B768C12E-8827-4022-B023-EBAC13800F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B768C12E-8827-4022-B023-EBAC13800F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC5680B7-E086-433C-AAAF-9FF2D06B3F02}
+	EndGlobalSection
+EndGlobal
